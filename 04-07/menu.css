@@ -1,0 +1,53 @@
+body{
+    background-color: goldenrod;
+}
+h1{
+    text-align: center;
+}
+#menu ul li{
+    list-style-type: none;
+    color: white;
+    font-size: 20px;
+    float: left;
+    margin: 10px;
+}
+#menu ul li a{
+    background-color: aquamarine;
+    font-size: 20px;
+    padding: 15px;
+    text-decoration: none;
+}
+#menu ul li a:hover{
+    background-color: yellowgreen;
+
+}
+.bloco{
+    width: 50%;
+    height: auto;
+    display: block;
+    float: left;
+
+   
+    
+}
+.bloco img{
+    width: 45%;
+    margin-top: 2%;
+    
+    
+}
+.bloco p{
+    width: 45%;
+    margin: 5%;
+    font-size: 20px;
+}
+.esq{
+    float: left;
+}
+.dir{
+    float: right;
+}
+.quebra{
+    clear: both;
+    margin-bottom: 30px;
+}
